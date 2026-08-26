@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+sample_media/synthetic_test.mp4
+fixed_video.mp4
+downloaded_video.mp4
+/venv/*
+/venv
+/src/__pycache__/
+.dockerignore
+config.bat
+node_modules
